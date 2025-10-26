@@ -43,6 +43,8 @@ O banco foi estruturado com as seguintes entidades principais:
 - **Equipamento → OrdemServico**: cada OS está vinculada a um equipamento, que pode ser crítico.  
 
 ## 📊 Modelo EER
+
+## 📊 Modelo EER
 ![Modelo EER da Oficina](docs/modeloEER.png)
 
 Esse modelo garante **normalização**, evita **redundâncias** e permite consultas analíticas sobre clientes, serviços, faturamento, sustentabilidade e confiabilidade de ativos.
