@@ -42,10 +42,10 @@ O banco foi estruturado com as seguintes entidades principais:
 - **Tecnico → OS_Servico**: técnicos são responsáveis pela execução dos serviços.  
 - **Equipamento → OrdemServico**: cada OS está vinculada a um equipamento, que pode ser crítico.  
 
-## 📊 Modelo EER
 
 ## 📊 Modelo EER
-![Modelo EER da Oficina](docs/modeloEER.png)
+## 📊 Modelo EER
+![Modelo EER da Oficina](docs/modeloEER)
 
 Esse modelo garante **normalização**, evita **redundâncias** e permite consultas analíticas sobre clientes, serviços, faturamento, sustentabilidade e confiabilidade de ativos.
 
