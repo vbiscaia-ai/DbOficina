@@ -44,8 +44,7 @@ O banco foi estruturado com as seguintes entidades principais:
 
 
 ## 📊 Modelo EER
-## 📊 Modelo EER
-![Modelo EER da Oficina](docs/modeloEER)
+![Modelo EER da Oficina](docs/modeloEER.png)
 
 Esse modelo garante **normalização**, evita **redundâncias** e permite consultas analíticas sobre clientes, serviços, faturamento, sustentabilidade e confiabilidade de ativos.
 
